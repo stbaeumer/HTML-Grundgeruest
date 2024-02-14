@@ -1,0 +1,16 @@
+/* Der Hintergund ist pink. */
+body{
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;    
+}
+
+h1{
+    /* px ist die Angabe der Größe in Pixel */
+    font-size: 60px;
+}
+
+/* die Schriftfarbe in Absätzen ist red */
+p{
+    color: red;
+}
